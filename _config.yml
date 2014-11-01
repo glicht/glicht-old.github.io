@@ -5,7 +5,6 @@ locale: en_US
 description:      The blog. The thoughts. The ramblings...
 logo: site-logo.png
 search: true
-url:              http://192.168.20.128:4000
 url: 
 
 
@@ -33,7 +32,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  #name: Your Name
   avatar: bio-photo.jpg
   email: you@email.com
   disqus-shortname:
