@@ -35,7 +35,7 @@ owner:
   #name: Your Name
   avatar: bio-photo.jpg
   email: you@email.com
-  disqus-shortname:
+  disqus-shortname: lichtman
   twitter: #username
   facebook: #username
   github: #username
@@ -51,3 +51,15 @@ owner:
     ad-client:
     ad-slot: 
   bing-verify:
+
+# defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: posts
+    values:
+      comments: true
+
+
+

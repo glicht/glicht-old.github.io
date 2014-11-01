@@ -10,7 +10,7 @@ image:
 date: 2014-11-01T13:49:09-04:00
 ---
 
-Welcome to my **new** blog. I emphasize the word **new** as I actually still have an **old** blog. It is currently still active and available at: http://guylichtman.com/wordpress/, although I don't know how long this will last. My old blog somehow died out and I decided it is time to start with a fresh new start from scratch. So this my first post and what is more fitting than writing about the setup. 
+Welcome to my **new** blog. I emphasize the word **new** as I actually still have an **old** blog. It is currently still active and available at: [http://guylichtman.com/wordpress/](http://guylichtman.com/wordpress/), although I don't know how long this will last. My old blog somehow died out and I decided it is time to start with a fresh new start from scratch. So this my first post and what is more fitting than writing about the setup. 
 
 My platform of choice is GitHub Pages. The great advantage of using GitHub is that everything is managed in git. Full version control is enabled on the blog, which is excellent. My blog's git repository is available [here](https://github.com/guylichtman/guylichtman.github.io). I won't go into details about setting up a GitHub Pages repository as this is well documented. 
 
