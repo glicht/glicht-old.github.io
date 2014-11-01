@@ -1,9 +1,5 @@
 source 'https://rubygems.org'
-
-gem 'jekyll'
-gem 'kramdown'
-gem 'coderay'
+gem 'github-pages'
 gem 'rake'
-gem 'thor'
-gem 'activesupport'
 gem 'stringex'
+
