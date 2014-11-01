@@ -1,16 +1,15 @@
 # Site navigation links
 
+- title: Home
+  url: / 
+
 - title: About
   url: /about/
 
-- title: Articles
-  url: /articles/
+- title: Tag Index
+  url: /tags/
 
-- title: Blog
-  url: /blog/
+- title: Feed
+  url: /feed.xml
 
-- title: Theme Setup
-  url: /theme-setup/
 
-- title: Made Mistakes
-  url: http://mademistakes.com
