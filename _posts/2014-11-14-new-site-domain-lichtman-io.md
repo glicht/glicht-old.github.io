@@ -4,7 +4,7 @@ title: "New Site Domain: lichtman.io"
 modified:
 categories:
 excerpt:
-tags: []
+tags: [blog]
 image:
   feature:
 date: 2014-11-14T10:47:54-05:00
