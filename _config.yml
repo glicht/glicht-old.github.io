@@ -5,7 +5,7 @@ locale: en_US
 description:      The blog. The thoughts. The ramblings...
 logo: site-logo.png
 search: true
-url: 
+url:
 
 
 # Jekyll configuration
@@ -46,10 +46,10 @@ owner:
   tumblr: #username
   google:
     plus: #username
-    analytics:
+    analytics: UA-56748840-1
     verify:
     ad-client:
-    ad-slot: 
+    ad-slot:
   bing-verify:
 
 # defaults
@@ -60,6 +60,3 @@ defaults:
       type: posts
     values:
       comments: true
-
-
-
