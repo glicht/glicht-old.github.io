@@ -32,9 +32,9 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  #name: Your Name
-  avatar: bio-photo.jpg
-  email: you@email.com
+  name: Guy Lichtman
+  avatar: #bio-photo.jpg
+  email: #you@email.com
   disqus-shortname: lichtman
   twitter: #username
   facebook: #username
@@ -60,3 +60,4 @@ defaults:
       type: posts
     values:
       comments: true
+      hide-avatar: true
