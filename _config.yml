@@ -60,4 +60,3 @@ defaults:
       type: posts
     values:
       comments: true
-      hide-avatar: true
