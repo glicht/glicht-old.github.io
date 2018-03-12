@@ -47,4 +47,4 @@ If the unix domain socket is to be used by MySQL only, you can further restrict 
 
     source s_myaudit { unix-stream("/var/lib/mysql/mysql-audit.sock" flags(no-parse) owner(mysql) perm(0600) log_msg_size(32768)); };
 
-This completes the setup to relay audit log entries from mysql to a remote syslog server via syslog-ng. Stay tuned for part 2 of this series where I plan to review some more advanced configuration options of syslog-ng.
+This completes the setup to relay audit log entries from mysql to a remote syslog server via syslog-ng.
