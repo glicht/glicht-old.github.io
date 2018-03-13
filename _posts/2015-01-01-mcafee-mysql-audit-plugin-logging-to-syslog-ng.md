@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "McAfee MySQL Audit Plugin: logging to syslog-ng (Part 1)"
+title: "McAfee MySQL Audit Plugin: logging to syslog-ng"
 modified:
 categories:
 excerpt:
